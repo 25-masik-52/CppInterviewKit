@@ -44,55 +44,55 @@ collapse: closed
 ```ad-oop
 title: Что такое ООП?
 collapse: closed
-![[oop_oop]]
+![[oop_1_oop]]
 ```
 
 ```ad-oop
 title: Назовите базовые принципы ООП.
 collapse: closed
-![[oop_basic_principles]]
+![[oop_2_basic_principles]]
 ```
 
 ```ad-oop
 title: Что такое инкапсуляция?
 collapse: closed
-![[oop_encapsulation]]
+![[oop_3_encapsulation]]
 ```
 
 ```ad-oop
 title: Что такое наследование? 🔥
 collapse: closed
-![[oop_inheritance]]
+![[oop_4_inheritance]]
 ```
 
 ```ad-oop
 title: Что такое виртуальное наследование?
 collapse: closed
-![[oop_virtual_inheritance]]
+![[oop_5_virtual_inheritance]]
 ```
 
 ```ad-oop
 title: Что такое полиморфизм?
 collapse: closed
-![[oop_polymorphism]]
+![[oop_6_polymorphism]]
 ```
 
 ```ad-oop
 title: Что такое абстрактный класс?
 collapse: closed
-![[oop_abstract_class]]
+![[oop_7_abstract_class]]
 ```
 
 ```ad-oop
 title: Что такое АБК?
 collapse: closed
-![[oop_abstract_base_class]]
+![[oop_8_abstract_base_class]]
 ```
 
 ```ad-oop
 title: Что такое класс-интерфейс в С++?
 collapse: closed
-![[oop_interface_class]]
+![[oop_9_interface_class]]
 ```
 
 #### **Деструкторы, конструкторы и управление ресурсами**
@@ -100,19 +100,19 @@ collapse: closed
 ```ad-oop
 title: Что такое деструктор? Зачем нужен виртуальный деструктор? Когда нужно объявлять деструктор виртуальным?
 collapse: closed
-![[oop_destructor]]
+![[oop_10_destructor]]
 ```
 
 ```ad-oop
 title: Что такое конструктор? Какие виды конструкторов вы знаете? Может ли быть конструктор виртуальным методом?
 collapse: closed
-![[oop_constructor]]
+![[oop_11_constructor]]
 ```
 
 ```ad-oop
 title: Что такое 'правило пяти' и 'правило нуля'?
 collapse: closed
-![[oop_rule_5_0]]
+![[oop_12_rule_5_0]]
 ```
 
 #### **Дружественные функции, срезка и виртуальность**
@@ -120,25 +120,25 @@ collapse: closed
 ```ad-oop
 title: Что такое дружественные функции и классы? Когда их стоит использовать?
 collapse: closed
-![[oop_friendly_functions_&_classes]]
+![[oop_13_friendly_functions_&_classes]]
 ```
 
 ```ad-oop
 title: Что такое 'срезка объекта' (object slicing) и как её избежать?
 collapse: closed
-![[oop_object_slicing]]
+![[oop_14_object_slicing]]
 ```
 
 ```ad-oop
 title: Что такое чисто виртуальный метод? Зачем он нужен и какой синтаксис?
 collapse: closed
-![[oop_purely_virtual_method]]
+![[oop_15_purely_virtual_method]]
 ```
 
 ```ad-oop
 title: Что такое vtable? Как работает виртуальность в C++? 🔥
 collapse: closed
-![[oop_vtable]]
+![[oop_16_vtable]]
 ```
 
 #### **Паттерны и идиомы**
@@ -146,25 +146,25 @@ collapse: closed
 ```ad-oop
 title: Как ограничить количество экземпляров класса?
 collapse: closed
-![[oop_instances_limit]]
+![[oop_17_instances_limit]]
 ```
 
 ```ad-oop
 title: Как вы будете реализовывать Singleton?
 collapse: closed
-![[oop_singleton]]
+![[oop_18_singleton]]
 ```
 
 ```ad-oop
 title: Как вызвать pure virtual call?
 collapse: closed
-![[oop_pure_virtual_call]]
+![[oop_19_pure_virtual_call]]
 ```
 
 ```ad-oop
 title: Как реализовать неизменяемый (immutable) класс в C++?
 collapse: closed
-![[oop_immutable_class]]
+![[oop_20_immutable_class]]
 ```
 
 #### **Сравнения и тонкости**
@@ -172,37 +172,37 @@ collapse: closed
 ```ad-oop
 title: В чем отличие между классом и структурой? 🔥
 collapse: closed
-![[oop_class_vs_structure]]
+![[oop_21_class_vs_structure]]
 ```
 
 ```ad-oop
 title: В чем особенность константных методов-членов класса?
 collapse: closed
-![[oop_constant_methods]]
+![[oop_22_constant_methods]]
 ```
 
 ```ad-oop
 title: Какие есть тонкости при вызове виртуальной функции из конструктора или деструктора?
 collapse: closed
-![[oop_subtleties_virtual_functions]]
+![[oop_23_subtleties_virtual_functions]]
 ```
 
 ```ad-oop
 title: В каком порядке конструируется объект и в каком разрушается? 🔥
 collapse: closed
-![[oop_order_construction_&_destruction]]
+![[oop_24_order_construction_&_destruction]]
 ```
 
 ```ad-oop
 title: Сколько будет таблиц виртуальных функций у двух классов, участвующих в наследовании?
 collapse: closed
-![[oop_vtable_task]]
+![[oop_25_vtable_task]]
 ```
 
 ```ad-oop
 title: Как работает RTTI (Runtime Type Information) в C++?
 collapse: closed
-![[oop_rtti]]
+![[oop_26_rtti]]
 ```
 
 ```ad-philosophy
@@ -219,67 +219,67 @@ collapse: closed
 ```ad-pattern
 title: Что такое MVC?
 collapse: closed
-![[Что такое MVC?]]
+![[patterns_1_mvc]]
 ```
 
 ```ad-pattern
 title: Что такое MVP?
 collapse: closed
-![[Что такое MVP?]]
+![[patterns_2_mvp]]
 ```
 
 ```ad-pattern
 title: Что такое SOLID? 🔥
 collapse: closed
-![[Что такое SOLID?]]
+![[patterns_3_solid]]
 ```
 
 ```ad-pattern
 title: Что такое RAII? 🔥
 collapse: closed
-![[Что такое RAII?]]
+![[patterns_4_raii]]
 ```
 
 ```ad-pattern
 title: Что такое CRTP?
 collapse: closed
-![[Что такое CRTP?]]
+![[patterns_5_crtp]]
 ```
 
 ```ad-pattern
 title: Что такое DRY?
 collapse: closed
-![[Что такое DRY?]]
+![[patterns_6_dry]]
 ```
 
 ```ad-pattern
 title: Что такое KISS?
 collapse: closed
-![[Что такое KISS?]]
+![[patterns_7_kiss]]
 ```
 
 ```ad-pattern
 title: Что такое YAGNI?
 collapse: closed
-![[Что такое YAGNI?]]
+![[patterns_8_yagni]]
 ```
 
 ```ad-pattern
 title: Что такое PIMPL?
 collapse: closed
-![[Что такое PIMPL?]]
+![[patterns_9_pimpl]]
 ```
 
 ```ad-pattern
 title: Что такое SFINAE?
 collapse: closed
-![[Что такое SFINAE?]]
+![[patterns_10_sfinae]]
 ```
 
 ```ad-pattern
 title: Виды шаблонов проектирования?
 collapse: closed
-![[Виды шаблонов проектирования?]]
+![[patterns_11_design_types]]
 ```
 
 #### **Идиомы**
@@ -287,7 +287,7 @@ collapse: closed
 ```ad-pattern
 title: Простая фабрика (Simple Factory) в C++
 collapse: closed
-![[Простая фабрика (Simple Factory) в C++]]
+![[patterns_12_simple_factory]]
 ```
 
 #### **Порождающие паттерны**
@@ -295,31 +295,31 @@ collapse: closed
 ```ad-pattern
 title: Фабричный метод (Factory Method) — паттерн проектирования
 collapse: closed
-![[Фабричный метод (Factory Method) — паттерн проектирования]]
+![[patterns_13_factory_method]]
 ```
 
 ```ad-pattern
 title: Абстрактная фабрика (Abstract Factory) — паттерн проектирования
 collapse: closed
-![[Абстрактная фабрика (Abstract Factory) — паттерн проектирования]]
+![[patterns_14_abstract_factory]]
 ```
 
 ```ad-pattern
 title: Паттерн Строитель (Builder)
 collapse: closed
-![[Паттерн Строитель (Builder)]]
+![[patterns_15_builder]]
 ```
 
 ```ad-pattern
 title: Паттерн Прототип (Prototype)
 collapse: closed
-![[Паттерн Прототип (Prototype)]]
+![[patterns_16_prototype]]
 ```
 
 ```ad-pattern
 title: Паттерн Одиночка (Singleton)
 collapse: closed
-![[Паттерн Одиночка (Singleton)]]
+![[patterns_17_singleton]]
 ```
 
 #### **Структурные паттерны**
@@ -327,43 +327,43 @@ collapse: closed
 ```ad-pattern
 title: Паттерн Адаптер (Adapter)
 collapse: closed
-![[Паттерн Адаптер (Adapter)]]
+![[patterns_18_adapter]]
 ```
 
 ```ad-pattern
 title: Паттерн Мост (Bridge)
 collapse: closed
-![[Паттерн Мост (Bridge)]]
+![[patterns_19_bridge]]
 ```
 
 ```ad-pattern
 title: Паттерн Компоновщик (Composite)
 collapse: closed
-![[Паттерн Компоновщик (Composite)]]
+![[patterns_20_composite]]
 ```
 
 ```ad-pattern
 title: Паттерн Декоратор (Decorator)
 collapse: closed
-![[Паттерн Декоратор (Decorator)]]
+![[patterns_21_decorator]]
 ```
 
 ```ad-pattern
 title: Паттерн Фасад (Facade)
 collapse: closed
-![[Паттерн Фасад (Facade)]]
+![[patterns_22_facade]]
 ```
 
 ```ad-pattern
 title: Паттерн Приспособленец (Flyweight)
 collapse: closed
-![[Паттерн Приспособленец (Flyweight)]]
+![[patterns_23_flyweight]]
 ```
 
 ```ad-pattern
 title: Паттерн Заместитель (Proxy)
 collapse: closed
-![[Паттерн Заместитель (Proxy)]]
+![[patterns_24_proxy]]
 ```
 
 #### **Поведенческие паттерны**
@@ -371,61 +371,61 @@ collapse: closed
 ```ad-pattern
 title: Паттерн Цепочка ответственности (Chain of Responsibility)
 collapse: closed
-![[Паттерн Цепочка ответственности (Chain of Responsibility)]]
+![[patterns_25_chain_of_responsibility]]
 ```
 
 ```ad-pattern
 title: Паттерн Команда (Command)
 collapse: closed
-![[Паттерн Команда (Command)]]
+![[patterns_26_command]]
 ```
 
 ```ad-pattern
 title: Паттерн Итератор (Iterator)
 collapse: closed
-![[Паттерн Итератор (Iterator)]]
+![[patterns_27_iterator]]
 ```
 
 ```ad-pattern
 title: Паттерн Посредник (Mediator)
 collapse: closed
-![[Паттерн Посредник (Mediator)]]
+![[patterns_28_mediator]]
 ```
 
 ```ad-pattern
 title: Паттерн Хранитель (Memento)
 collapse: closed
-![[Паттерн Хранитель (Memento)]]
+![[patterns_29_memento]]
 ```
 
 ```ad-pattern
 title: Паттерн Наблюдатель (Observer)
 collapse: closed
-![[Паттерн Наблюдатель (Observer)]]
+![[patterns_30_observer]]
 ```
 
 ```ad-pattern
 title: Паттерн Посетитель (Visitor)
 collapse: closed
-![[Паттерн Посетитель (Visitor)]]
+![[patterns_31_visitor]]
 ```
 
 ```ad-pattern
 title: Паттерн Стратегия (Strategy) 🔥
 collapse: closed
-![[Паттерн Стратегия (Strategy)]]
+![[patterns_32_strategy]]
 ```
 
 ```ad-pattern
 title: Паттерн Состояние (State)
 collapse: closed
-![[Паттерн Состояние (State)]]
+![[patterns_33_state]]
 ```
 
 ```ad-pattern
 title: Паттерн Шаблонный метод (Template Method)
 collapse: closed
-![[Паттерн Шаблонный метод (Template Method)]]
+![[patterns_34_template_method]]
 ```
 
 #### **Принципы**
@@ -433,37 +433,37 @@ collapse: closed
 ```ad-pattern
 title: Что такое Dependency Injection? Как реализовать в C++?
 collapse: closed
-![[Что такое Dependency Injection? Как реализовать в C++?]]
+![[patterns_35_dependency_injection]]
 ```
 
 ```ad-pattern
 title: Что такое 'адаптер функции' (function adapter)?
 collapse: closed
-![[Что такое 'адаптер функции' (function adapter)?]]
+![[patterns_36_function_adapter]]
 ```
 
 ```ad-pattern
 title: Что такое 'прокси-объект' и где он применяется?
 collapse: closed
-![[Что такое 'прокси-объект' и где он применяется?]]
+![[patterns_37_proxy_object]]
 ```
 
 ```ad-pattern
 title: Как реализовать паттерн 'Фабрика' без использования условных операторов?
 collapse: closed
-![[Как реализовать паттерн 'Фабрика' без использования условных операторов?]]
+![[patterns_38_factory_without_if]]
 ```
 
 ```ad-pattern
 title: Как реализовать паттерн 'Наблюдатель' без использования стандартной библиотеки?
 collapse: closed
-![[Как реализовать паттерн 'Наблюдатель' без использования стандартной библиотеки?]]
+![[patterns_39_observer_without_std]]
 ```
 
 ```ad-philosophy
 title: Философия паттернов, принципов и идиом
 collapse: closed
-![[Философия паттернов, принципов и идиом]]
+![[patterns_philosophy]]
 ```
 
 ---
