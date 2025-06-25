@@ -39,7 +39,7 @@ This repository is a curated collection of concise yet comprehensive C++ intervi
 ## 🚀 Quick Start
 1. Clone the repo: ```git clone https://github.com/yourusername/CppInterviewKit.git``` 
 2. Download [Obsidian](https://obsidian.md).
-3. [Set up environment in Obsidian.](https://github.com/25-masik-52/CppInterviewKit/wiki/Set-up-Obsidian-environment)
+3. [Set up environment in Obsidian.](https://github.com/25-masik-52/CppInterviewKit/wiki)
 4. Enjoy using & Star ⭐ the repo if it helps you!
 
 > 💡 *Pro Tip: Pair this with Leetcode/HackerRank for coding practice. Good luck!* 🔥
