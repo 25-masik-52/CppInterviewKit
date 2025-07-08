@@ -785,3 +785,335 @@ title: Философия алгоритмов и структур данных
 collapse: closed
 ![[algorithms_philosophy]]
 ```
+
+---
+### **6. STL и контейнеры**
+#### **Общие вопросы STL**
+
+```ad-stl-containers
+title: Что такое итераторы в STL? Какие виды итераторов знаешь?
+collapse: closed
+![[stl_1_iterators]]
+```
+
+```ad-stl-containers
+title: Какие требования к объекту, чтобы использовать его как ключ в map и set? 🔥
+collapse: closed
+![[stl_2_key_map_set]]
+```
+
+```ad-stl-containers
+title: Что нужно для использования класса как ключа в unordered_map и unordered_set? 🔥
+collapse: closed
+![[stl_3_key_unordered_map_unordered_set]]
+```
+
+```ad-stl-containers
+title: Как работает аллокатор в STL? Можно ли использовать свой аллокатор?
+collapse: closed
+![[stl_4_allocator]]
+```
+
+```ad-stl-containers
+title: Что такое инвалидация итераторов? Когда она происходит? 🔥
+collapse: closed
+![[stl_5_iterator_validation]]
+```
+
+```ad-stl-containers
+title: Что из себя представляют cache-friendly структуры в C++? 🔥
+collapse: closed
+![[stl_6_cache_friendly_structures]]
+```
+
+#### **Vector vs List**
+
+```ad-stl-containers
+title: Отличие vector от list? Почему vector обычно быстрее list? 🔥
+collapse: closed
+![[stl_7_vector_vs_list]]
+```
+
+```ad-stl-containers
+title: Как происходит увеличение размера vector? 🔥
+collapse: closed
+![[stl_8_increasing_vector_size]] 🔥
+```
+
+```ad-stl-containers
+title: Как удалить элемент из vector за O(1), если порядок не важен? 🔥
+collapse: closed
+![[stl_9_vector_const_time_remove]]
+```
+
+#### **Map/Set vs Unordered_Map/Unordered_Set**
+
+```ad-stl-containers
+title: В чем разница между map и unordered_map? 🔥
+collapse: closed
+![[stl_10_map_vs_unordered_map]]
+```
+
+```ad-stl-containers
+title: Как работает хеш-функция в unordered_map? 🔥
+collapse: closed
+![[stl_11_hash_function_in_unordered_map]]
+```
+
+```ad-stl-containers
+title: Как обработать коллизии в unordered_map? 🔥
+collapse: closed
+![[stl_12_collisions_in_unordered_map]]
+```
+
+#### **Другие контейнеры**
+
+```ad-stl-containers
+title: Как устроена deque?
+collapse: closed
+![[stl_13_deque]]
+```
+
+```ad-stl-containers
+title: В чем разница между array и vector?
+collapse: closed
+![[stl_14_array_vs_vector]]
+```
+
+```ad-stl-containers
+title: Как работают адаптеры stack, queue, priority_queue?
+collapse: closed
+![[stl_15_stack_&_queue_&_priority_queue?]]
+```
+#### **Новое в C++11–23**
+
+```ad-stl-containers
+title: Как использовать move с контейнерами? 🔥
+collapse: closed
+![[stl_16_move_with_containers]]
+```
+
+```ad-stl-containers
+title: Чем emplace_back отличается от push_back?
+collapse: closed
+![[stl_17_emplace_back_vs_push_back]]
+```
+
+```ad-stl-containers
+title: Как использовать Structured Bindings с map?
+collapse: closed
+![[stl_18_structured_bindings_with_map]]
+```
+
+```ad-stl-containers
+title: Что такое string_view и зачем он нужен?
+collapse: closed
+![[stl_19_string_view]]
+```
+
+```ad-philosophy
+title: Философия STL
+collapse: closed
+![[stl_philosophy]]
+```
+
+---
+### **7. Многопоточность и синхронизация**
+
+```ad-multithreading
+title: Что такое процессы, потоки, в чем различие? Как создать поток в С++? 🔥
+collapse: closed
+![[multithreading_1_processes_vs_threads]]
+```
+
+```ad-multithreading
+title: Что такое многопоточность, конкурентность и параллелизм? В чем между ними отличие? 🔥
+collapse: closed
+![[multithreading_2_multithreading]]
+```
+
+```ad-multithreading
+title: Что такое асинхронность?
+collapse: closed
+![[multithreading_3_asynchrony]]
+```
+
+```ad-multithreading
+title: Что такое пулы потоков?
+collapse: closed
+![[multithreading_4_thread_pools]]
+```
+
+```ad-multithreading
+title: Что такое критическая секция? 🔥
+collapse: closed
+![[multithreading_5_critical_section]]
+```
+
+```ad-multithreading
+title: Что такое mutex и семафора? В чём их различие? Какие есть виды mutex в стандартной библиотеке? В чем между ними отличие? 🔥
+collapse: closed
+![[multithreading_6_mutex_vs_semaphores]]
+```
+
+```ad-multithreading
+title: Что такое spinlock в C++? 🔥
+collapse: closed
+![[multithreading_7_spinlock]]
+```
+
+```ad-multithreading
+title: Что такое deadlock? Какое минимальное количество mutex должно быть для deadlock?
+collapse: closed
+![[multithreading_8_deadlock]]
+```
+
+```ad-multithreading
+title: Что такое атомарная операция? atomic? 🔥
+collapse: closed
+![[multithreading_9_atomic]]
+```
+
+```ad-multithreading
+title: Что такое conditional_variable? Как с ним работать?
+collapse: closed
+![[multithreading_10_conditional_variable]]
+```
+
+```ad-multithreading
+title: Что такое memory model в C++?
+collapse: closed
+![[multithreading_11_memory_model]]
+```
+
+```ad-multithreading
+title: Что такое thread-local storage?
+collapse: closed
+![[multithreading_12_thread_local_storage]]
+```
+
+```ad-multithreading
+title: Что такое future?
+collapse: closed
+![[multithreading_13_future]]
+```
+
+```ad-multithreading
+title: Что такое false sharing и как его избежать?
+collapse: closed
+![[multithreading_14_false_sharing]]
+```
+
+```ad-multithreading
+title: Что такое состояние гонки (race-condition)? Как этого избежать?
+collapse: closed
+![[multithreading_15_race_condition]]
+```
+
+```ad-multithreading
+title: Знаком с технологией OpenMP?
+collapse: closed
+![[multithreading_16_openmp]]
+```
+
+```ad-multithreading
+title: Как передать информацию между несколькими процессами? 🔥
+collapse: closed
+![[multithreading_17_information_between_processes]]
+```
+
+```ad-multithreading
+title: Может ли thread возвращать значение? Можно ли копировать потоки? Когда невозможно приаттачить поток?
+collapse: closed
+![[multithreading_18_return_value_of_the_thread]]
+```
+
+```ad-multithreading
+title: Зачем вызывать join и detach у потока? Что будет, если не вызвать? Зачем писать условие проверки потока joinable()?
+collapse: closed
+![[multithreading_19_join_&_detach]]
+```
+
+```ad-multithreading
+title: Какие примитивы синхронизации потоков в С++ вы знаете? 🔥
+collapse: closed
+![[multithreading_20_synchronization_primitives]]
+```
+
+```ad-multithreading
+title: Сравните производительность atomic и мьютексов. 🔥
+collapse: closed
+![[multithreading_21_atomic_vs_mutex]]
+```
+
+```ad-multithreading
+title: Как реализовать producer-consumer pattern?
+collapse: closed
+![[multithreading_22_producer_consumer_pattern]]
+```
+
+```ad-multithreading
+title: Как может использоваться static в многопоточном программировании? 🔥
+collapse: closed
+![[multithreading_23_static_in_multithreading]]
+```
+
+```ad-multithreading
+title: Как работает async?
+collapse: closed
+![[multithreading_24_async]]
+```
+
+```ad-multithreading
+title: Чем отличается launch async от launch deferred?
+collapse: closed
+![[multithreading_25_launch_async_vs_launch_deferred]]
+```
+
+```ad-multithreading
+title: Как работают мьютексы под капотом в C++? 🔥
+collapse: closed
+![[multithreading_26_under_mutex]]
+```
+
+```ad-multithreading
+title: Что находится у atomic под капотом? 🔥
+collapse: closed
+![[multithreading_27_under_atomic]]
+```
+
+```ad-multithreading
+title: Как пофиксить проблему, когда mutex является локальной переменной? 🔥
+collapse: closed
+![[multithreading_28_local_mutex]]
+```
+
+```ad-multithreading
+title: Что такое lock_guard? 🔥
+collapse: closed
+![[multithreading_29_lock_guard]]
+```
+
+```ad-multithreading
+title: Чем хорош lock_guard? Какие есть lock_guard в стандартной библиотеке С++? 🔥
+collapse: closed
+![[multithreading_30_lock_guard_std]]
+```
+
+```ad-multithreading
+title: Что будет, если несколько раз вызвать lock? 🔥
+collapse: closed
+![[multithreading_31_multiple_lock]]
+```
+
+```ad-multithreading
+title: Опишите принципы работы планировщика в ОС Linux (или любой известной вам ОС).
+collapse: closed
+![[multithreading_32_scheduler_in_linux]]
+```
+
+```ad-philosophy
+title: Философия многопоточности
+collapse: closed
+![[multithreading_philosophy]]
+```
