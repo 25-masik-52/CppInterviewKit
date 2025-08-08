@@ -883,7 +883,7 @@ collapse: closed
 ```ad-stl-containers
 title: Как работают адаптеры stack, queue, priority_queue?
 collapse: closed
-![[stl_15_stack_&_queue_&_priority_queue?]]
+![[stl_15_stack_&_queue_&_priority_queue]]
 ```
 #### **Новое в C++11–23**
 
