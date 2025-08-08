@@ -219,67 +219,67 @@ collapse: closed
 ```ad-pattern
 title: Что такое MVC?
 collapse: closed
-![[Что такое MVC?]]
+![[patterns_1_mvc]]
 ```
 
 ```ad-pattern
 title: Что такое MVP?
 collapse: closed
-![[Что такое MVP?]]
+![[patterns_2_mvp]]
 ```
 
 ```ad-pattern
 title: Что такое SOLID? 🔥
 collapse: closed
-![[Что такое SOLID?]]
+![[patterns_3_solid]]
 ```
 
 ```ad-pattern
 title: Что такое RAII? 🔥
 collapse: closed
-![[Что такое RAII?]]
+![[patterns_4_raii]]
 ```
 
 ```ad-pattern
 title: Что такое CRTP?
 collapse: closed
-![[Что такое CRTP?]]
+![[patterns_5_crtp]]
 ```
 
 ```ad-pattern
 title: Что такое DRY?
 collapse: closed
-![[Что такое DRY?]]
+![[patterns_6_dry]]
 ```
 
 ```ad-pattern
 title: Что такое KISS?
 collapse: closed
-![[Что такое KISS?]]
+![[patterns_7_kiss]]
 ```
 
 ```ad-pattern
 title: Что такое YAGNI?
 collapse: closed
-![[Что такое YAGNI?]]
+![[patterns_8_yagni]]
 ```
 
 ```ad-pattern
 title: Что такое PIMPL?
 collapse: closed
-![[Что такое PIMPL?]]
+![[patterns_9_pimpl]]
 ```
 
 ```ad-pattern
 title: Что такое SFINAE?
 collapse: closed
-![[Что такое SFINAE?]]
+![[patterns_10_sfinae]]
 ```
 
 ```ad-pattern
 title: Виды шаблонов проектирования?
 collapse: closed
-![[Виды шаблонов проектирования?]]
+![[patterns_11_design_types]]
 ```
 
 #### **Идиомы**
@@ -287,7 +287,7 @@ collapse: closed
 ```ad-pattern
 title: Простая фабрика (Simple Factory) в C++
 collapse: closed
-![[Простая фабрика (Simple Factory) в C++]]
+![[patterns_12_simple_factory]]
 ```
 
 #### **Порождающие паттерны**
@@ -295,31 +295,31 @@ collapse: closed
 ```ad-pattern
 title: Фабричный метод (Factory Method) — паттерн проектирования
 collapse: closed
-![[Фабричный метод (Factory Method) — паттерн проектирования]]
+![[patterns_13_factory_method]]
 ```
 
 ```ad-pattern
 title: Абстрактная фабрика (Abstract Factory) — паттерн проектирования
 collapse: closed
-![[Абстрактная фабрика (Abstract Factory) — паттерн проектирования]]
+![[patterns_14_abstract_factory]]
 ```
 
 ```ad-pattern
 title: Паттерн Строитель (Builder)
 collapse: closed
-![[Паттерн Строитель (Builder)]]
+![[patterns_15_builder]]
 ```
 
 ```ad-pattern
 title: Паттерн Прототип (Prototype)
 collapse: closed
-![[Паттерн Прототип (Prototype)]]
+![[patterns_16_prototype]]
 ```
 
 ```ad-pattern
 title: Паттерн Одиночка (Singleton)
 collapse: closed
-![[Паттерн Одиночка (Singleton)]]
+![[patterns_17_singleton]]
 ```
 
 #### **Структурные паттерны**
@@ -327,43 +327,43 @@ collapse: closed
 ```ad-pattern
 title: Паттерн Адаптер (Adapter)
 collapse: closed
-![[Паттерн Адаптер (Adapter)]]
+![[patterns_18_adapter]]
 ```
 
 ```ad-pattern
 title: Паттерн Мост (Bridge)
 collapse: closed
-![[Паттерн Мост (Bridge)]]
+![[patterns_19_bridge]]
 ```
 
 ```ad-pattern
 title: Паттерн Компоновщик (Composite)
 collapse: closed
-![[Паттерн Компоновщик (Composite)]]
+![[patterns_20_composite]]
 ```
 
 ```ad-pattern
 title: Паттерн Декоратор (Decorator)
 collapse: closed
-![[Паттерн Декоратор (Decorator)]]
+![[patterns_21_decorator]]
 ```
 
 ```ad-pattern
 title: Паттерн Фасад (Facade)
 collapse: closed
-![[Паттерн Фасад (Facade)]]
+![[patterns_22_facade]]
 ```
 
 ```ad-pattern
 title: Паттерн Приспособленец (Flyweight)
 collapse: closed
-![[Паттерн Приспособленец (Flyweight)]]
+![[patterns_23_flyweight]]
 ```
 
 ```ad-pattern
 title: Паттерн Заместитель (Proxy)
 collapse: closed
-![[Паттерн Заместитель (Proxy)]]
+![[patterns_24_proxy]]
 ```
 
 #### **Поведенческие паттерны**
@@ -371,61 +371,61 @@ collapse: closed
 ```ad-pattern
 title: Паттерн Цепочка ответственности (Chain of Responsibility)
 collapse: closed
-![[Паттерн Цепочка ответственности (Chain of Responsibility)]]
+![[patterns_25_chain_of_responsibility]]
 ```
 
 ```ad-pattern
 title: Паттерн Команда (Command)
 collapse: closed
-![[Паттерн Команда (Command)]]
+![[patterns_26_command]]
 ```
 
 ```ad-pattern
 title: Паттерн Итератор (Iterator)
 collapse: closed
-![[Паттерн Итератор (Iterator)]]
+![[patterns_27_iterator]]
 ```
 
 ```ad-pattern
 title: Паттерн Посредник (Mediator)
 collapse: closed
-![[Паттерн Посредник (Mediator)]]
+![[patterns_28_mediator]]
 ```
 
 ```ad-pattern
 title: Паттерн Хранитель (Memento)
 collapse: closed
-![[Паттерн Хранитель (Memento)]]
+![[patterns_29_memento]]
 ```
 
 ```ad-pattern
 title: Паттерн Наблюдатель (Observer)
 collapse: closed
-![[Паттерн Наблюдатель (Observer)]]
+![[patterns_30_observer]]
 ```
 
 ```ad-pattern
 title: Паттерн Посетитель (Visitor)
 collapse: closed
-![[Паттерн Посетитель (Visitor)]]
+![[patterns_31_visitor]]
 ```
 
 ```ad-pattern
 title: Паттерн Стратегия (Strategy) 🔥
 collapse: closed
-![[Паттерн Стратегия (Strategy)]]
+![[patterns_32_strategy]]
 ```
 
 ```ad-pattern
 title: Паттерн Состояние (State)
 collapse: closed
-![[Паттерн Состояние (State)]]
+![[patterns_33_state]]
 ```
 
 ```ad-pattern
 title: Паттерн Шаблонный метод (Template Method)
 collapse: closed
-![[Паттерн Шаблонный метод (Template Method)]]
+![[patterns_34_template_method]]
 ```
 
 #### **Принципы**
@@ -433,37 +433,37 @@ collapse: closed
 ```ad-pattern
 title: Что такое Dependency Injection? Как реализовать в C++?
 collapse: closed
-![[Что такое Dependency Injection? Как реализовать в C++?]]
+![[patterns_35_dependency_injection]]
 ```
 
 ```ad-pattern
 title: Что такое 'адаптер функции' (function adapter)?
 collapse: closed
-![[Что такое 'адаптер функции' (function adapter)?]]
+![[patterns_36_function_adapter]]
 ```
 
 ```ad-pattern
 title: Что такое 'прокси-объект' и где он применяется?
 collapse: closed
-![[Что такое 'прокси-объект' и где он применяется?]]
+![[patterns_37_proxy_object]]
 ```
 
 ```ad-pattern
 title: Как реализовать паттерн 'Фабрика' без использования условных операторов?
 collapse: closed
-![[Как реализовать паттерн 'Фабрика' без использования условных операторов?]]
+![[patterns_38_factory_without_if]]
 ```
 
 ```ad-pattern
 title: Как реализовать паттерн 'Наблюдатель' без использования стандартной библиотеки?
 collapse: closed
-![[Как реализовать паттерн 'Наблюдатель' без использования стандартной библиотеки?]]
+![[patterns_39_observer_without_std]]
 ```
 
 ```ad-philosophy
 title: Философия паттернов, принципов и идиом
 collapse: closed
-![[Философия паттернов, принципов и идиом]]
+![[patterns_philosophy]]
 ```
 
 ---
@@ -472,97 +472,97 @@ collapse: closed
 ```ad-smart-pointers
 title: Что можешь сказать о unique_ptr? 🔥
 collapse: closed
-![[Что можешь сказать о unique_ptr?]]
+![[smart_pointers_1_unique_ptr]]
 ```
 
 ```ad-smart-pointers
 title: Что можешь сказать о weak_ptr? 🔥
 collapse: closed
-![[Что можешь сказать о weak_ptr?]]
+![[smart_pointers_2_weak_ptr]]
 ```
 
 ```ad-smart-pointers
 title: Что можешь сказать о shared_ptr? 🔥
 collapse: closed
-![[Что можешь сказать о shared_ptr?]]
+![[smart_pointers_3_shared_ptr]]
 ```
 
 ```ad-smart-pointers
 title: Что такое Control Block? 🔥
 collapse: closed
-![[Что такое Control Block?]]
+![[smart_pointers_4_control_block]]
 ```
 
 ```ad-smart-pointers
 title: Можешь рассказать о тонкостях аллокации в shared_ptr и weak_ptr? 🔥
 collapse: closed
-![[Можешь рассказать о тонкостях аллокации в shared_ptr и weak_ptr?]]
+![[smart_pointers_5_allocation_in_shared_ptr_&_weak_ptr]]
 ```
 
 ```ad-smart-pointers
 title: Отличия weak_ptr, shared_ptr, unique_ptr? 🔥
 collapse: closed
-![[Отличия weak_ptr, shared_ptr, unique_ptr?]]
+![[smart_pointers_6_weak_ptr_vs_shared_ptr_vs_unique_ptr]]
 ```
 
 ```ad-smart-pointers
 title: Что такое auto_ptr? Что пришло на смену auto_ptr? Расскажи об истории умных указателей?
 collapse: closed
-![[Что такое auto_ptr? Что пришло на смену auto_ptr? Расскажи об истории умных указателей?]]
+![[smart_pointers_7_auto_ptr]]
 ```
 
 ```ad-smart-pointers
 title: Shared_ptr потокобезопасный или можно использовать в контексте нескольких потоков? 🔥
 collapse: closed
-![[Shared_ptr потокобезопасный или можно использовать в контексте нескольких потоков?]]
+![[smart_pointers_8_shared_ptr_thread_safety]]
 ```
 
 ```ad-smart-pointers
 title: На основе чего несколько shared_ptr могут ссылаться на один указатель? Как написать умный указатель для одного и множества объектов?
 collapse: closed
-![[На основе чего несколько shared_ptr могут ссылаться на один указатель? Как написать умный указатель для одного и множества объектов?]]
+![[smart_pointers_9_shared_ptr_links_to_objects]]
 ```
 
 ```ad-smart-pointers
 title: Зачем используются делитеры в умных указателях? Когда в умных указателях не вызовется delete для объекта?
 collapse: closed
-![[Зачем используются делитеры в умных указателях? Когда в умных указателях не вызовется delete для объекта?]]
+![[smart_pointers_10_custom_deleters]]
 ```
 
 ```ad-smart-pointers
 title: Как реализовать циклическую ссылку с shared_ptr и как её разорвать? Как заставить shared_ptr 'течь'? 🔥
 collapse: closed
-![[Как реализовать циклическую ссылку с shared_ptr и как её разорвать? Как заставить shared_ptr 'течь'?]]
+![[smart_pointers_11_fluid_shared_ptr]]
 ```
 
 ```ad-smart-pointers
 title: Что такое make_shared и make_unique? В чем их преимущества?
 collapse: closed
-![[Что такое make_shared и make_unique? В чем их преимущества?]]
+![[smart_pointers_12_make_shared_&_make_unique]]
 ```
 
 ```ad-smart-pointers
 title: Можно ли использовать умные указатели в массивах? Как?
 collapse: closed
-![[Можно ли использовать умные указатели в массивах? Как?]]
+![[smart_pointers_13_arrays]]
 ```
 
 ```ad-smart-pointers
 title: Как реализовать собственный умный указатель?
 collapse: closed
-![[Как реализовать собственный умный указатель?]]
+![[smart_pointers_14_custom]]
 ```
 
 ```ad-smart-pointers
 title: Каковы накладные расходы у shared_ptr по сравнению с raw pointer? 🔥
 collapse: closed
-![[Каковы накладные расходы у shared_ptr по сравнению с raw pointer?]]
+![[smart_pointers_15_shared_ptr_vs_raw_pointer]]
 ```
 
 ```ad-philosophy
 title: Философия умных указателей
 collapse: closed
-![[Философия умных указателей]]
+![[smart_pointers_philosophy]]
 ```
 
 ---
